@@ -71,7 +71,6 @@ Java ka setup karna, syntax, loops, arrays & strings samajhna, aur ek **Simple C
 
 * Reverse a string
 * Count vowels in a string
-
 ---
 
 ## **Day 6 – Mini Project: Simple Calculator**
