@@ -1,117 +1,139 @@
 
----
+    ---
 
-# 🧠 **Week 2 → OOP Basics**
+    # 🧠 **Week 2 → OOP Basics**
 
-### 🎯 **Goal:**
+    ### 🎯 **Goal:**
 
-Classes, objects, methods, and constructors samajhna — aur ek **Mini Project: Student Management / Bank System** banana.
+    Understand classes, objects, methods, constructors, and OOP concepts — then build a **Mini Project: Student Management System**
 
----
+    ---
 
-## **Day 1 – Classes & Objects**
+    ## **Day 1 – Classes & Objects**
 
-**Concepts:**
+    **Concepts:**
 
-* Class aur Object ka difference
-* Class banane ka syntax
-* Object creation (`new` keyword)
-* Accessing class fields & methods
+    * Difference between Class and Object
+    * Syntax of class creation
+    * Object creation using the `new` keyword
+    * Accessing class fields & methods
 
-**Practice:**
+    **Practice:**
 
-* Ek `Car` class banao (company, model, year)
-* Ek method `displayInfo()` likho
-* `main()` me object create karke info print karo
+    * Create a `Car` class (company, model, year)
+    * Write a method `displayInfo()`
+    * In `main()`, create an object and print info
 
----
+    ---
 
-## **Day 2 – Methods (Functions in Java)**
+    ## **Day 2 – Methods (Functions in Java)**
 
-**Concepts:**
+    **Concepts:**
 
-* Method declare & call karna
-* Return type aur parameters
-* Method Overloading (same name, different parameters)
+    * Declaring and calling methods
+    * Return types and parameters
+    * Method Overloading (same name, different parameters)
 
-**Practice:**
+    **Practice:**
 
-* Ek class `MathOps` banao
-* Methods likho: `add()`, `subtract()`, `multiply()`, `divide()`
-* Overload `add()` method for 2 aur 3 numbers
+    * Create a `MathOps` class
+    * Write methods: `add()`, `subtract()`, `multiply()`, `divide()`
+    * Overload `add()` method for 2 and 3 numbers
 
----
+    ---
 
-## **Day 3 – Constructors**
+    ## **Day 3 – Constructors**
 
-**Concepts:**
+    **Concepts:**
 
-* Constructor kya hota hai
-* Default vs Parameterized Constructor
-* `this` keyword ka use
+    * What is a Constructor
+    * Default vs Parameterized Constructor
+    * Use of `this` keyword
 
-**Practice:**
+    **Practice:**
 
-* Ek class `Student` banao (name, age, grade)
-* Constructor se initialize karo
-* Ek `display()` method likho
+    * Create a `Student` class (name, age, grade)
+    * Initialize using a constructor
+    * Write a `display()` method
 
----
+    ---
 
-## **Day 4 – Access Modifiers & Encapsulation**
+    ## **Day 4 – Access Modifiers & Encapsulation**
 
-**Concepts:**
+    **Concepts:**
 
-* `public`, `private`, `protected`, `default`
-* Getters & Setters (Encapsulation ka part)
-* Why use private variables?
+    * `public`, `private`, `protected`, `default`
+    * Getters & Setters (part of Encapsulation)
+    * Why use private variables
 
-**Practice:**
+    **Practice:**
 
-* Ek `Account` class banao
-* `balance` ko private rakho
-* `deposit()` aur `withdraw()` methods likho
-* Getter se balance access karo
+    * Create an `Account` class
+    * Keep `balance` as private
+    * Add `deposit()` and `withdraw()` methods
+    * Use a getter to access balance
 
----
+    ---
 
-## **Day 5 – Static Keyword & Final**
+    ## **Day 5 – Inheritance & Polymorphism**
 
-**Concepts:**
+    **Concepts:**
 
-* Static variables aur methods
-* `final` keyword (constant values ke liye)
-* Difference between static & non-static
+    * `extends` keyword
+    * Parent–child class relationship
+    * Method Overriding
+    * Runtime Polymorphism (dynamic method dispatch)
 
-**Practice:**
+    **Practice:**
 
-* Ek `Bank` class banao
-* Static variable `bankName` rakho
-* Multiple accounts create karke `bankName` print karo
+    * Create a `Vehicle` class
+    * Inherit it into `Car` and `Bike`
+    * Override a method `displayType()`
+    * Demonstrate polymorphism using parent class reference
 
----
+    ---
 
-## **Day 6 – Mini Project: Student Management System**
+    ## **Day 6 – Abstraction & Mini Project Setup**
 
-**Goal:**
-Classes, methods, constructors aur encapsulation use karke ek chhota project banana
+    **Concepts:**
 
-**Features:**
+    * `abstract` classes and `abstract` methods
+    * `interface` and its implementation
+    * Difference between Encapsulation and Abstraction
 
-* Student class: name, age, marks
-* Constructor se data set karo
-* Method: display info, calculate grade
-* Optional: user input leke multiple students handle karo
+    **Practice:**
 
----
+    * Create an abstract class `Shape` with `draw()` method
+    * Implement it in `Circle` and `Rectangle`
+    * Create base class `Person`
+    * Inherit `Student` and `Teacher` classes
+    * Apply Encapsulation using private fields and getters/setters
+    * Store all objects in an `ArrayList`
 
-## **Day 7 – Revision + Challenge**
+    ---
 
-**Practice Mix:**
+    ## **Day 7 – Mini Project Completion + Revision**
 
-* Ek `Employee` class banao (id, name, salary)
-* Constructor + methods use karo
-* Salary increment method add karo
-* Print all employee details
+    **Concepts:**
 
----
+    * Apply all OOP principles together
+    * Combine classes, constructors, inheritance, and encapsulation
+    * Practice real-world implementation
+
+    **Practice:**
+
+    * Complete the **Student Management System**
+
+    * Add, Update, Delete, Display Students
+    * Use `ArrayList` for storage
+    * Revise all concepts:
+
+    * Class vs Object
+    * Constructor
+    * Inheritance
+    * Polymorphism
+    * Encapsulation
+    * Abstraction
+    * Bonus: Create an `Employee` system using inheritance & polymorphism
+
+    ---
