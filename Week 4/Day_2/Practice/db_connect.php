@@ -1,9 +1,10 @@
+
 <?php
-// Database configuration
+
 $servername = "localhost";
 $username = "root";
 $password = ""; // Default for XAMPP/LAMP
-$dbname = "blogs"; // <-- Your new database name
+$dbname = "practice"; // <-- Your new database name
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
@@ -16,9 +17,4 @@ if (!$conn) {
     echo "✅ Connected successfully to database: $dbname";
 }
 
-// Make sure uploads folder exists
-$uploadDir = __DIR__ . "/uploads";
-if (!is_dir($uploadDir)) {
-    mkdir($uploadDir, 0777, true);
-}
 ?>

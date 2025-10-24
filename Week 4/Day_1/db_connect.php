@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";  // XAMPP/LAMP default username
 $password = null;      // default: empty
-$dbname = "stu_attendance"; // your database name
+$dbname = "practice"; // your database name
 
 // Step 2: Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
