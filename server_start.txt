@@ -1,2 +1,0 @@
-sudo /opt/lampp/lampp restart
-sudo /opt/lampp/lampp start
