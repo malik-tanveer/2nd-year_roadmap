@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Web & Mobile Dev Roadmap – 10 Weeks (Fixed)
+# Full-Stack Web & Mobile Dev Roadmap – 10 Weeks (Fixed)
 
 ---
 
@@ -11,7 +11,7 @@
 * Input/Output basics
 
 *Mini Project:*
-👉 Simple Calculator (add, subtract, multiply, divide)
+ Simple Calculator (add, subtract, multiply, divide)
 
 *Pro Tip:*
 Focus on *logic + console apps* first, GUI later.
@@ -26,7 +26,7 @@ Focus on *logic + console apps* first, GUI later.
 * Encapsulation & Abstraction
 
 *Mini Project:*
-👉 Student Management System (add, update, delete students using OOP)
+Student Management System (add, update, delete students using OOP)
 
 *Pro Tip:*
 Use *ArrayList* to store objects instead of arrays for flexibility.
@@ -41,7 +41,8 @@ Use *ArrayList* to store objects instead of arrays for flexibility.
 * Sessions & Cookies
 
 *Mini Project:*
-👉 Contact Form with DB + Session-based Login
+
+Contact Form with DB + Session-based Login
 
 *Pro Tip:*
 Focus on *form validation + basic DB interaction*.
@@ -56,7 +57,8 @@ Focus on *form validation + basic DB interaction*.
 * Basic validation + Prepared Statements
 
 *Mini Project:*
-👉 Blog System (Add/Edit/Delete posts, login required)
+ 
+Blog System (Add/Edit/Delete posts, login required)
 
 *Pro Tip:*
 Learn *Prepared Statements* – security first, SQL injection avoid.
@@ -71,7 +73,8 @@ Learn *Prepared Statements* – security first, SQL injection avoid.
 * Models + Database connection
 
 *Mini Project:*
-👉 Student Management System in CodeIgniter (CRUD)
+ 
+Student Management System in CodeIgniter (CRUD)
 
 *Pro Tip:*
 Map *CI MVC with your PHP CRUD logic* – easy transition.
@@ -86,7 +89,8 @@ Map *CI MVC with your PHP CRUD logic* – easy transition.
 * Helpers & Libraries
 
 *Mini Project:*
-👉 Blog CMS in CodeIgniter (login + CRUD + categories)
+ 
+Blog CMS in CodeIgniter (login + CRUD + categories)
 
 *Pro Tip:*
 Use *Flashdata* for notifications – better UX.
@@ -102,8 +106,9 @@ Use *Flashdata* for notifications – better UX.
 * Intro to WooCommerce (optional)
 
 *Mini Project:*
-👉 Portfolio Website in WordPress
-👉 Mini E-Commerce Store
+ 
+Portfolio Website in WordPress 
+Mini E-Commerce Store
 
 *Pro Tip:*
 Focus on *theme customization + plugin setup*, skip custom plugins if pressed for time.
@@ -118,15 +123,16 @@ Focus on *theme customization + plugin setup*, skip custom plugins if pressed fo
 * Buttons, TextViews, RecyclerView
 
 *Mini Project:*
-👉 Simple Calculator App
-👉 To-Do List App
+
+Calculator App
+To-Do List App
 
 *Pro Tip:*
 Start *small*, focus on layout + basic logic, not design.
 
 ---
 
-## *Week 9 → Android + Database & API*
+## *Week 9 → Android + Database & API
 
 * SQLite Database in Android
 * SharedPreferences
@@ -134,8 +140,9 @@ Start *small*, focus on layout + basic logic, not design.
 * RecyclerView/ListView + DB
 
 *Mini Project:*
-👉 Notes App with SQLite
-👉 Weather App (API call)
+ 
+Notes App with SQLite
+Weather App (API call)
 
 *Pro Tip:*
 API + DB combo is *real-world skill* – spend max time here.
@@ -157,7 +164,7 @@ Focus on *API design + connection + UI/UX basics* – this will be your *portfol
 
 ---
 
-### ⚡ Notes & Tips:
+### Notes & Tips:
 
 1. *Mini Projects First* → Always build small before going big.
 2. *Version Control* → Push projects to *GitHub* weekly.

@@ -1,0 +1,18 @@
+Full-Stack Web & Mobile Dev Roadmap – Summary (TXT Export)
+
+Completed Weeks: - Week 1: Java Basics - Week 2: OOP in Java - Week 3:
+PHP Basics - Week 4: PHP + MySQL CRUD
+
+Skipped Weeks: - Week 5: CodeIgniter (Intro) - Week 6: CodeIgniter
+(Advanced)
+
+Active Weeks to Start Now: - Week 8: Android Development (Intro) - Week
+9: Android + Database & API - Week 10: Integration & Final Projects
+
+Note: Week 5 and Week 6 were skipped because the folder structure and
+learning curve of CodeIgniter felt too complex and mentally
+overwhelming. Week 8 Day 1 was deleted intentionally and should not be
+counted or restored.
+
+Status: Everything is now clean and ready. You can start from Week 8
+directly.
